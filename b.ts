@@ -1,1 +1,1 @@
-let bname:string = '这是一个名叫作 b 的文件'
+let bname :string = '这是一个名叫作 b 的文件'
