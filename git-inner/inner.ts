@@ -1,0 +1,1 @@
+let inner : string = '我是git-practice里面的inner文件'
